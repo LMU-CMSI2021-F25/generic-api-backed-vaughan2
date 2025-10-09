@@ -4,4 +4,4 @@ The site is basically just a way to compare career stats of nfl players. You sea
 
 You might notice that Bo Jackson and Jerry Rice (and Jim McMahon) don't appear in the search results. I have no idea why. For some reason they're not in the espn api. Thought it might be an age thing, but Barry Sanders and Deion Sanders are in there. And much older players are in there (Jim Brown, etc) (like they appear in search) but don't have stats associated with them.
 
-Link to deployment: 
+Link to deployment: https://nflstatscomparison.vercel.app/
