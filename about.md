@@ -1,0 +1,7 @@
+I chose the espn api, which I quickly realized doesn't have any actual documentation, the best there is is a list of the endpoints here (not even supplied by espn): https://gist.github.com/nntrn/ee26cb2a0716de0947a0a4e9a157bc1c#search. 
+
+The site is basically just a way to compare career stats of nfl players. You search for a player in the search bar, then click the plus button to add them to the comparison chart. You can also just add a single player and look at their stats. The stats are just sorted by the largest number (which for the most part will go along with importance and organize things well enough without having to manually go through it for every stat). You can add as many players as you want and scroll down through all their stats. You can remove a player from the comparison by clicking the x.
+
+You might notice that Bo Jackson and Jerry Rice (and Jim McMahon) don't appear in the search results. I have no idea why. For some reason they're not in the espn api. Thought it might be an age thing, but Barry Sanders and Deion Sanders are in there. And much older players are in there (Jim Brown, etc) (like they appear in search) but don't have stats associated with them.
+
+Link to deployment: 
